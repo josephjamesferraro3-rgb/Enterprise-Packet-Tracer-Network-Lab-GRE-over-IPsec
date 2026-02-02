@@ -108,7 +108,7 @@ This project is intended for:
 │   ├── GRE_IPSEC_Tunnel.pkt 
 ├── configs/
 │   ├── access-switches.pdf
-│   ├── distribution-switches.pdf
+│   ├── distribution-switch.pdf
 │   ├── edge-router-1.pdf
 ├── diagrams/
 │   └── topology.png
