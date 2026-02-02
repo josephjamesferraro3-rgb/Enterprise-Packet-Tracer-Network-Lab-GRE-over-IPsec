@@ -35,7 +35,6 @@ This project is intended for:
 
 ### LAN Services
 
-*attach image or link*
 
 * VLAN segmentation:
 
@@ -97,7 +96,7 @@ This project is intended for:
 * Internal networks translated:
 
   * 192.168.0.0/16
-  * 172.16.0.0/24 (remote site)
+  * 172.16.0.0/16 (remote site)
 
 ---
 
