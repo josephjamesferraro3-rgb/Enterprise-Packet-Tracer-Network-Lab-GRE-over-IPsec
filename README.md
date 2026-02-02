@@ -104,8 +104,8 @@ This project is intended for:
 ## 📂 Repository Structure
 
 ```text
-├── PT_files/GRE_IPSEC_Tunnel.pkt
-│   ├── access-switches.txt
+├── PT_files/
+│   ├── GRE_IPSEC_Tunnel.pkt 
 ├── configs/
 │   ├── access-switches.txt
 │   ├── distribution-switches.txt
@@ -113,8 +113,6 @@ This project is intended for:
 │   └── edge-router-2.txt
 ├── diagrams/
 │   └── topology.png
-├── docs/
-│   └── GRE-over-IPsec-steps.pdf
 └── README.md
 ```
 
