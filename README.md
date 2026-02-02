@@ -161,7 +161,7 @@ This project is intended for:
 
    * Inter-VLAN routing
    * Site-to-site connectivity
-   * Internet access (ping 8.8.8.8)
+   * Internet access (ping 8.8.8.8) or open web browser and type "www.google.com" DNS will ressolve it. 
 
 ---
 
